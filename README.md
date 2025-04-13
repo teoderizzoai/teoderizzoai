@@ -1,12 +1,12 @@
-[![Matteo's GitHub Banner](https://images.unsplash.com/photo-1581093588401-2047c6f5910c?auto=format&fit=crop&w=1350&q=80)](https://github.com/matteoderizzo)
+[![Matteo's GitHub Banner](https://i.imgur.com/1yfslQH.jpeg)](https://github.com/matteoderizzo)
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=matteoderizzo&label=Profile%20views&color=blue&style=for-the-badge)](https://github.com/matteoderizzo)
 <!-- [![](https://wakatime.com/badge/user/your-wakatime-id.svg?style=for-the-badge)](https://wakatime.com/@yourusername) -->
 
 <h2>Hi 👋, I'm Matteo De Rizzo</h2>
-<h3>AI Researcher | fMRI & EEG Enthusiast | Data Scientist</h3>
+<h3>AI Master Graduate </h3>
 
-- 🔬 I’m currently working on a multi-layered model of **epilepsy**, integrating **epigenetics** and **neurodynamics**
+- 🔬 My [paper on multi-layered model of **epilepsy**, integrating **epigenetics**]() got published at the AIAI conference
 
 - 🧠 I'm passionate about **neural data analysis**, especially using **Python, fMRI, EEG**, and **machine learning**
 
