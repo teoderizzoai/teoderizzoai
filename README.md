@@ -69,7 +69,7 @@
 **ML for the Quantified Self – VU Amsterdam**  
 Predicted number of push-ups in 10-second intervals using Apple Watch & iPhone sensor data. Applied clustering, feature engineering, and trained Random Forests & Decision Trees.  
 📈 Best model: R² = 0.89 | Grade: **9/10**  
-🔗 [Read more](https://github.com/teoderizzoai/Push-Up-Prediction) <!-- Replace with actual link -->
+🔗 [Read more](https://github.com/teoderizzoai/Push-Up-Prediction) 
 
 ---
 
@@ -77,9 +77,15 @@ Predicted number of push-ups in 10-second intervals using Apple Watch & iPhone s
 **Data Mining Techniques – VU Amsterdam**  
 Built ranking models to predict hotel bookings from Expedia search logs. Applied advanced preprocessing, relevance scoring, and used LightGBM & LambdaMART.  
 🥇 Leaderboard score: NDCG@5 = 0.385 | Grade: **9.5/10**  
-🔗 [Read more](https://github.com/teoderizzoai/Kaggle-Competition) <!-- Replace with actual link -->
+🔗 [Read more](https://github.com/teoderizzoai/Kaggle-Competition)
 
 ---
 
+### 🚨 Hate Speech Detection (OLIDv1)  
+**Intro to NLP – VU Amsterdam**  
+Trained a BERT model to classify tweets as offensive or not using the OLIDv1 dataset from OffensEval 2019. Evaluated model robustness with CheckList through typo and negation tests.  
+📊 Final model: Macro F1 = 0.56 | Baseline F1 = 0.49  
+🔍 Explored subword tokenization issues and adversarial behavior  
+🔗 [Read more](https://github.com/teoderizzoai/Hate-Speech-Detection)
 
 <p align="center">Made with ☕ and brainwaves 🧠</p>
