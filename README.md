@@ -6,7 +6,7 @@
 <h2>Hi 👋, I'm Matteo De Rizzo</h2>
 <h3>AI Master's Graduate | Open to Work 💼</h3>
 
-- 🔬 My [thesis paper](https://github.com/teoderizzoai/Vrij_Universiteit_Projects/blob/main/Master_Thesis_Paper.pdf) on multi-layered model of **epilepsy**, integrating **epigenetics**, was published at the [AIAI Conference](https://ifipaiai.org/)
+- 🔬 My [thesis paper](https://github.com/teoderizzoai/Masters-Thesis) on multi-layered model of **epilepsy**, integrating **epigenetics**, was published at the [AIAI Conference](https://ifipaiai.org/)
 
 - 🧠 Passionate about **neural data analysis**, especially using **Python, fMRI, EEG**, and **machine learning**
 
