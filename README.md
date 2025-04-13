@@ -1,7 +1,7 @@
-[![Matteo's GitHub Banner](https://your-website.com/banner.png)](https://your-website.com)
+[![Matteo's GitHub Banner](https://images.unsplash.com/photo-1581093588401-2047c6f5910c?auto=format&fit=crop&w=1350&q=80)](https://github.com/matteoderizzo)
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=matteoderizzo&label=Profile%20views&color=blue&style=for-the-badge)](https://github.com/matteoderizzo)
-[![](https://wakatime.com/badge/user/your-wakatime-id.svg?style=for-the-badge)](https://wakatime.com/@yourusername)
+<!-- [![](https://wakatime.com/badge/user/your-wakatime-id.svg?style=for-the-badge)](https://wakatime.com/@yourusername) -->
 
 <h2>Hi 👋, I'm Matteo De Rizzo</h2>
 <h3>AI Researcher | fMRI & EEG Enthusiast | Data Scientist</h3>
@@ -16,23 +16,25 @@
 
 - 💬 Ask me about **neuroscience, data analysis, Python, fMRI pipelines**
 
-- 📫 Reach me at **matteo.derizzo@example.com** (or whatever your email is)
+- 📫 Reach me at **matteo.derizzo@example.com**
 
-<h3>Languages and Tools:</h3>
+---
+
+## 🧠 Interests & Skills
+
+- Neuroimaging (fMRI, EEG), BCI, brain data pipelines  
+- Python, NumPy, Pandas, Matplotlib, Scikit-learn  
+- Machine Learning · AI for Health · Epigenetics  
+- Jupyter · Git · VS Code · LaTeX
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,jupyter,tensorflow,pytorch,numpy,pandas,matplotlib,scikit-learn,git,github,linux,markdown,latex,vscode,postgres,docker,redis"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=matteoderizzo&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
-### 📊 Weekly development breakdown
+---
 
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 22 hrs 17 mins
-
-Python               15 hrs 42 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   70.5 %
-Markdown             3 hrs 20 mins   ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.0 %
-Bash                 1 hr 12 mins    ⣿⣆⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   5.4 %
-Other                1 hr 6 mins     ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   4.9 %
-JSON                 36 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   2.7 %
+<p align="center">Made with ☕ and brainwaves 🧠</p>
