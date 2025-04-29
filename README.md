@@ -10,7 +10,7 @@
 
 - 🧠 Passionate about **neural data analysis**, especially using **Python, fMRI, EEG**, and **machine learning**
 
-- 🌱 Currently exploring **game development** with **Godot** and **Unreal Engine 5**
+- 🌱 Currently exploring **LLM** implementations for personalized quizzes based on databases. 
 
 - 💼 **Open to opportunities** in data science, neurotech, and research  
   *(Remote or Europe-based — open to relocate)*
