@@ -68,9 +68,9 @@
 ### 🎮 RAGlite Elden Ring Quiz
 **Personal RAG Project – Self-Initiated**                                       
 Built a personalized quiz generator for Elden Ring using Retrieval-Augmented Generation (RAG). Combined structured item data with chunked in-game lore to generate questions with explanations.
-🧠 Powered by a Groq-hosted LLM with custom scoring-based retrieval | Built with Python & Streamlit
-🔍 Learned to build RAG without vector libraries, focusing on chunking, scoring, and prompt crafting
-🔗 Try it on Streamlit | GitHub
+🧠 Powered by a Groq-hosted LLM with custom scoring-based retrieval | Built with Python & Streamlit.
+🔍 Learned to build RAG without vector libraries, focusing on chunking, scoring, and prompt crafting.
+🔗 [Try it](https://erqproject-8ykkmud3dzdnzkwjqyggf3.streamlit.app/) on Streamlit | [GitHub](https://github.com/teoderizzoai/ERQ_Project)
 
 ---
 
