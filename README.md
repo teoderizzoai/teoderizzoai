@@ -10,8 +10,8 @@
 
 - 🧠 Passionate about **neural data analysis**, especially using **Python, fMRI, EEG**, and **machine learning**
 
-- 🌱 Currently exploring **LLM** implementations for [personalized quizzes based on databases](https://github.com/teoderizzoai/ERQ_Project). 
-
+- 🌱 Currently developing an **app** to detect health state for plants called [LeafCheck](https://github.com/teoderizzoai/LeafCheck)
+  
 - 💼 **Open to opportunities** in data science, neurotech, and research  
   *(Remote or Europe-based — open to relocate)*
 
