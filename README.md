@@ -14,7 +14,7 @@
 - 💼 **Open to opportunities** in data science, neurotech, and research  
   *(Remote or Europe-based — open to relocate)*
 
-- 🖥️ **IT Manager – HCS Group SRL, Italy**  
+- 🖥️ **Worked as IT Manager at HCS Group SRL, Italy**  
   Helped with backend systems and sensitive healthcare databases, ensuring full compliance with GDPR and medical data regulations.  
   Developed and maintained ETL pipelines and internal APIs to enable secure, real-time access to patient and operational data.  
   Streamlined backend integrations, and managed database migrations across clinical platforms.  
