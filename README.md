@@ -10,15 +10,20 @@
 
 - 🧠 Passionate about **neural data analysis**, especially using **Python, fMRI, EEG**, and **machine learning**
 
-- 🌱 Currently developing an **app** to detect health state for plants called [LeafCheck](https://github.com/teoderizzoai/LeafCheck)
   
 - 💼 **Open to opportunities** in data science, neurotech, and research  
   *(Remote or Europe-based — open to relocate)*
 
-- 💼 Previously interned at **[Welpair](https://www.welpai.rs/)** I contributed to the development of AI tools for behavioral tracking and user engagement in mental health.  
+- 🖥️ **IT Manager – HCS Group SRL, Italy**  
+  Helped with backend systems and sensitive healthcare databases, ensuring full compliance with GDPR and medical data regulations.  
+  Developed and maintained ETL pipelines and internal APIs to enable secure, real-time access to patient and operational data.  
+  Streamlined backend integrations, and managed database migrations across clinical platforms.  
+
+- 💼 **Previously interned at [Welpair](https://www.welpai.rs/)**  
+  I contributed to the development of AI tools for behavioral tracking and user engagement in mental health.  
   I focused on improving data workflows and exploring ML-based personalization strategies.  
 
-- 🎓 Teaching Assistant – Vrije Universiteit Amsterdam
+- 🎓 **Teaching Assistant – Vrije Universiteit Amsterdam**  
   As a TA, I supported students in coursework and technical implementation, providing guidance on topics such as machine learning, data analysis, and Python programming.
 
 - 📫 Reach me at **teoderizzoai@gmail.com**
