@@ -30,6 +30,22 @@
 
 ---
 
+## 🎧 Currently Working On: Spotify Hit Predictor – *“Will It Hit?”*
+
+I'm actively developing an AI-powered platform that predicts whether a song has hit potential based on **Spotify audio features**.
+
+- 🧠 **Core Focus**: Training and integrating machine learning models using features like **danceability**, **energy**, **valence**, and more.
+- 🛠️ **Tech Stack**: `React`, `TypeScript`, `Tailwind CSS`, `Vite`, `Express.js`, `Python (scikit-learn, XGBoost)`, and the `Spotify Web API`.
+- 🎵 **User Flow**: Upload an audio file, Spotify URI, or CSV → extract features → get instant hit probability.
+- 📊 **What's Next**:
+  - Enhancing **model accuracy** with advanced ensemble methods and feature engineering
+  - Adding **interactive visual breakdowns** of predictions
+  - Implementing **OAuth login** and **user prediction history dashboard**
+
+🚧 *Currently building out backend ML integration and real-time feedback features. Public beta coming soon!*
+
+---
+
 ## 🧠 Skills & Tools
 
 ### 🗣️ Programming Languages
