@@ -44,6 +44,8 @@ I'm actively developing an AI-powered platform that predicts whether a song has 
 
 🚧 *Currently building out backend ML integration and real-time feedback features. Public beta coming soon!*
 
+🔗 **View the code**: [Spotify Hit Predictor - Will it hit?!](https://github.com/teoderizzoai/Spotify-Hit-Predictor)
+
 ---
 
 ## 🧠 Skills & Tools
