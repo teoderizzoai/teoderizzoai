@@ -30,7 +30,7 @@
 
 ---
 
-- Find all my websites on my [LinkTree](links.matteoderizzo.site) 
+- 🔗 Find all my websites on my [LinkTree](links.matteoderizzo.site) 
 
 ---
 
