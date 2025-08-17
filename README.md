@@ -28,6 +28,8 @@
 
 - 📫 Reach me at **teoderizzoai@gmail.com**
 
+- Find all my websites on my [LinkTree](links.matteoderizzo.site) 
+
 ---
 
 ## 🎧 Currently Working On: Spotify Hit Predictor – *“Will It Hit?”*
