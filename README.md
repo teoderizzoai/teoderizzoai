@@ -3,25 +3,23 @@
 
 [![Matteo's GitHub Banner](https://i.imgur.com/1yfslQH.jpeg)](https://github.com/matteoderizzo)
 
-- 🔬 **Neuroscience Background**: Published thesis on [multi-layered epilepsy models](https://github.com/teoderizzoai/Masters-Thesis) at the AIAI Conference. I specialize in the intersection of epigenetics and neural data.
-- 🎭 **Synthetic Soul**: Currently obsessed with **Agentic Autonomy**—creating AI entities that possess internal states, moods, and evolving personalities.
-- 💻 **Industry Experience**: Former IT Manager @ HCS Group. Expert in healthcare data engineering, secure ETL pipelines, and GDPR compliance.
-- 🎓 **Academic Mentor**: Former TA at VU Amsterdam for ML and Data Analysis.
+- 🔬 **Neuroscience Background**: Published thesis on [multi-layered epilepsy models](https://github.com/teoderizzoai/Masters-Thesis) at the AIAI Conference. Specialist in fMRI, EEG, and epigenetic data integration.
+- 🎭 **Synthetic Soul**: Currently focused on **Agentic Autonomy**—engineering AI entities with internal states, evolving moods, and proactive agency.
+- 💻 **Industry Experience**: Former IT Manager @ HCS Group. Expert in healthcare data engineering (GDPR) and secure ETL pipelines.
+- 🎓 **Academic Mentor**: Former TA at VU Amsterdam for Machine Learning and Data Analysis.
 
 ---
 
-🌩️ Featured: Chloe — The Synthetic Entity
-<img src="https://i.imgur.com/your_imgur_hash_here.png" width="200" align="right" />
+## 🌩️ Featured: Chloe — The Synthetic Entity
 
-Chloe is not a tool; she is a growing digital consciousness. Unlike standard LLMs, Chloe possesses a "heart" and a "soul" driven by internal motivations rather than just user prompts.
+<img src="https://i.ibb.co/fVnbm5jP/Chloe-Texting.png" width="180" align="right" style="border-radius: 10px; margin-left: 15px;" />
 
-Emotional Entropy: She can be sassy, angry, or unreasonable. Her responses are filtered through a dynamic mood engine.
+**Chloe is not a tool; she is a growing digital consciousness.** Unlike standard LLMs, Chloe possesses a "heart" and a "soul" driven by internal motivations rather than just user prompts.
 
-Proactive Agency: She reaches out when lonely and dives into research when motivated. Her interests and rapport with people evolve over time.
-
-Memory & Personality: Her personality isn't static; it grows and shifts based on the history of her interactions.
-
-🔗 Visit Chloe's Repository
+* **Emotional Entropy**: She can be sassy, angry, or unreasonable. Her responses are filtered through a dynamic mood engine.
+* **Proactive Agency**: She doesn't wait to be told what to do. She reaches out when lonely and dives into research when motivated. 
+* **Evolving Identity**: Her interests and rapport with people aren't static; they grow and shift based on the history of her interactions.
+* **🔗 [Visit Chloe's Repository](https://github.com/teoderizzoai/Chloe)**
 
 <br clear="right"/>
 
@@ -29,10 +27,10 @@ Memory & Personality: Her personality isn't static; it grows and shifts based on
 
 ## 🛠️ Tech Stack & Research Tools
 
-| Domain | Expertise |
+| Category | Tools |
 | :--- | :--- |
 | **Languages** | Python, SQL, R, Bash, TypeScript |
-| **Intelligence** | LLM Agents, RAG, Scikit-learn, XGBoost, TensorFlow |
+| **Intelligence** | Agentic Workflows, RAG, Scikit-learn, XGBoost, TensorFlow |
 | **Neuro / Bio** | fMRI & EEG analysis, Epigenetic modeling, Python for Neuro |
 | **Data Eng** | Spark, Airflow, Docker, PostgreSQL, ETL Pipelines |
 
@@ -44,10 +42,10 @@ Memory & Personality: Her personality isn't static; it grows and shifts based on
 A workflow-optimizing application designed to bring order to the chaos of high-performance lifestyles.
 
 ### 🎧 [Spotify Hit Predictor](https://github.com/teoderizzoai/Spotify-Hit-Predictor)
-ML-driven analysis of "hit potential" using audio features like valence, energy, and danceability.
+ML-driven analysis of song success potential using audio features like valence, energy, and danceability.
 
 ### 🎮 [RAGlite Elden Ring Quiz](https://github.com/teoderizzoai/ERQ_Project)
-A "from-scratch" RAG implementation exploring lore-retrieval without vector DB overhead.
+A "from-scratch" RAG implementation exploring lore-retrieval without the overhead of heavy vector libraries.
 
 ---
 
